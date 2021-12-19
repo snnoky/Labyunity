@@ -1,0 +1,1 @@
+Reszta animacji analogicznie do przykładu AttackExample.
